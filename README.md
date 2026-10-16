@@ -89,3 +89,7 @@ schtasks /Delete /TN "PaperRead Zotero Sync" /F
 - 從 PubMed 等來源匯入的 Zotero 條目常帶大量關鍵字標籤，所以 `sync_tags` 預設關閉。
 - 出版社網站多半有防機器人驗證，`fetch_pdf_by_doi` 只抓得到開放取用版本。訂閱期刊請用瀏覽器加 Zotero Connector 存 PDF，同步會接手。
 - PaperRead 正在處理某篇論文時不會把它移到回收站（處理途中搬走資料夾會讓 PaperRead 的翻譯佇列卡住），會等下一輪。
+
+## 授權
+
+[MIT License](LICENSE)
