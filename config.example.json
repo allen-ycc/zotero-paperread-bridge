@@ -1,0 +1,14 @@
+{
+ "zotero_url": "http://127.0.0.1:23119",
+ "zotero_api_key": "",
+ "translate_on_import": false,
+ "trash_when_zotero_deletes": true,
+ "create_in_zotero": true,
+ "fetch_pdf_by_doi": false,
+ "sync_tags": false,
+ "tag_prefix": "#",
+ "collection_separator": "/",
+ "sync_automatic_tags": false,
+ "max_new_per_run": 10,
+ "mass_delete_guard": 5
+}

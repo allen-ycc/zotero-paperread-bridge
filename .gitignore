@@ -1,0 +1,7 @@
+# 個人設定與資料：含 Zotero 寫入金鑰、文獻對應與紀錄，不上傳
+config.json
+state.json
+sync.log*
+.sync.lock
+*.tmp
+__pycache__/
